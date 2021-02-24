@@ -168,17 +168,18 @@
   \item Built integration capabilities with our secret management software to safely inject passwords and secret files without exposing them in plaintext to administrators/developers that don't need access
   \item Built an on-demand container based Jenkins framework to replace a fleet of Jenkins agents
   \item Took an existing proof of concept web app for data quality and worked as a full stack developer to automate data ingestion, add reporting, and rewrite the front end for a cohesive and modern design
+  \item Built adapters to be used for interacting with messaging queues and cloud services from our integration platform
   \end{tightemize}
   \sectionsep
 
   \runsubsection{Michigan State University}
   \descript{| Undergraduate Learning Assistant }
-  \location{June 2014 – Sep 2014 | Mountain View, CA}
+  \location{Aug 2016 – May 2018 | East Lansing, MI}
   \vspace{\topsep} % Hacky fix for awkward extra vertical space
   \begin{tightemize}
-  \item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-  \item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-  \item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+  \item Prepared lesson introductions each week
+  \item Graded programming assignments and provided feedback
+  \item Wrote a final programming project for the class covering the full semester's material
   \end{tightemize}
   \sectionsep
 
@@ -187,31 +188,14 @@
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
   \section{Research}
-  \runsubsection{Cornell Robot Learning Lab}
-  \descript{| Researcher}
-  \location{Jan 2014 – Jan 2015 | Ithaca, NY}
-  Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
-  \sectionsep
-
-  \runsubsection{Cornell Phonetics Lab}
-  \descript{| Head Undergraduate Researcher}
-  \location{Mar 2012 – May 2013 | Ithaca, NY}
-  Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
-  \sectionsep
-
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  %     AWARDS
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-  \section{Awards} 
-  \begin{tabular}{rll}
-  2014	     & top 52/2500  & KPCB Engineering Fellow\\
-  2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-  2013	     & National  & Jump Trading Challenge Finalist\\
-  2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-  2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-  2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-  \end{tabular}
+  \runsubsection{Liao Research Group}
+  \descript{| Professorial Assistant}
+  \location{Aug 2014 – May 2016 | East Lansing, MI}
+  \vspace{\topsep}
+  \begin{tightemize}
+  \item Experimental design of wastewater reclamation and waste gas purification
+  \item Performed experiments and ran statistical analysis on their results
+  \end{tightemize}
   \sectionsep
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -219,9 +203,9 @@
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
   \section{Publications} 
-  \renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+  \renewcommand\refname{\vskip -0.5cm} % Couldn't get this working from the .cls file
   \bibliographystyle{abbrv}
-  \bibliography{publications}
+  \bibliography{resume}
   \nocite{*}
 
   \end{minipage} 
