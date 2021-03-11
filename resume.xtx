@@ -116,8 +116,6 @@
   \subsection{Undergraduate}
   Object Oriented Programming \\
   Data Structures and Algorithms \\
-  Introduction to Programming I \\
-  {\footnotesize \textit{\textbf{(Teaching Asst 4x) }}} \\
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   %     SKILLS
@@ -127,14 +125,14 @@
   \subsection{Tools \& Capabilities}
   \location{Greater Experience}
   Ansible \textbullet{} Terraform \textbullet{} AWS services \textbullet{} Cloud Architecture \\
-  Docker \textbullet{} Git \textbullet{} Jenkins \\
+  Docker \textbullet{} Git \textbullet{} Jenkins \textbullet{} Spring \\
   \location{Some Experience}
   Kubernetes \textbullet{} Integration \textbullet{} Kafka\\
   \sectionsep
 
   \subsection{Programming Languages}
   \location{Greater Experience:}
-  Java \textbullet{} Python \textbullet{} Python \textbullet{} Angular \\
+  Java \textbullet{} Python \textbullet{} Angular \\
   C++  \\ 
   \location{Some Experience:}
   C \textbullet{} C\# \textbullet{} CSS \textbullet{} PostgreSQL \textbullet{} Matlab \\
@@ -163,12 +161,14 @@
   \location{Jun 2018 - Present | Ada, MI}
   \vspace{\topsep}
   \begin{tightemize}
-  \item Built a CICD framework for moving from static server deployments into on demand containers through AWS for development and Kubernetes for live environments
-  \item Contributed to building a configuration management strategy, moving away from modifying files directly on servers
-  \item Built integration capabilities with our secret management software to safely inject passwords and secret files without exposing them in plaintext to administrators/developers that don't need access
-  \item Built an on-demand container based Jenkins framework to replace a fleet of Jenkins agents
-  \item Took an existing proof of concept web app for data quality and worked as a full stack developer to automate data ingestion, add reporting, and rewrite the front end for a cohesive and modern design
-  \item Built adapters to be used for interacting with messaging queues and cloud services from our integration platform
+  \item Responsible for developing and maintaining highly available integration services for business processes
+  \item Responsible for providing integration tools to drive data quality,  security,  and visibility into business processes
+  \item Built a CI/CD framework to move from static server deployments into on-demand AWS containers for development and Kubernetes for live environments
+  \item Contributed to building a configuration management strategy to make disaster recovery faster and easier
+  \item Built secure integration between secret management software and application configuration using the principle of least privilege
+  \item Built an on-demand container based Jenkins framework to replace an existing fleet of Jenkins VMs for significant cost savings
+  \item Took ownership of a proof of concept web app and worked as a full stack developer to automate data ingestion, add reporting, and rewrite the front end for a cohesive and modern design
+  \item Built Java adapters to mediate between our integration platform and messaging queues and cloud services
   \end{tightemize}
   \sectionsep
 
@@ -178,7 +178,7 @@
   \vspace{\topsep} % Hacky fix for awkward extra vertical space
   \begin{tightemize}
   \item Prepared lesson introductions each week
-  \item Graded programming assignments and provided feedback
+  \item Graded students' programming assignments and provided feedback
   \item Wrote a final programming project for the class covering the full semester's material
   \end{tightemize}
   \sectionsep
@@ -194,7 +194,7 @@
   \vspace{\topsep}
   \begin{tightemize}
   \item Experimental design of wastewater reclamation and waste gas purification
-  \item Performed experiments and ran statistical analysis on their results
+  \item Performed experiments and ran statistical analysis on the results
   \end{tightemize}
   \sectionsep
 
