@@ -124,19 +124,16 @@
   \section{Skills}
   \subsection{Tools \& Capabilities}
   \location{Greater Experience}
-  Ansible \textbullet{} Terraform \textbullet{} AWS services \textbullet{} Cloud Architecture \\
-  Docker \textbullet{} Git \textbullet{} Jenkins \textbullet{} Spring \\
+  Ansible \textbullet{} Terraform \textbullet{} AWS services \textbullet{} Cloud Architecture \textbullet{} Docker \textbullet{} Git \textbullet{} Jenkins \textbullet{} Elasticsearch \textbullet{} GraphQL \\
   \location{Some Experience}
   Kubernetes \textbullet{} Integration \textbullet{} Kafka\\
   \sectionsep
 
   \subsection{Programming Languages}
   \location{Greater Experience:}
-  Java \textbullet{} Python \textbullet{} Angular \\
-  C++  \\ 
+  Java \textbullet{} Python \textbullet{} Python \textbullet{} Angular \textbullet{} C++ \textbullet{} TypeScript \textbullet{} JavaScript \\ 
   \location{Some Experience:}
-  C \textbullet{} C\# \textbullet{} CSS \textbullet{} PostgreSQL \textbullet{} Matlab \\
-  TypeScript \textbullet{} JavaScript \\
+  C \textbullet{} C\# \textbullet{} CSS \textbullet{} PostgreSQL \textbullet{} Matlab \textbullet{} VTL \\
   \sectionsep
 
   
@@ -156,9 +153,24 @@
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
   \section{Experience}
+
+  \runsubsection{Amazon Web Services}
+  \descript{| Software Development Engineer}
+  \location{May 2021 - Present | Remote, Grand Rapids, MI}
+  \vspace{\topsep}
+  \begin{tightemize}
+  \item Worked on the AWS Amplify CLI and Amplify Data teams
+  \item Led redesign effort to reduce duplicated code to resolve repeated issues with broken application due to not implementing changes in multiple places
+  \item Contributed to the full rewrite and modernization of the GraphQL transformer, better enabling customers to develop and secure APIs in their applications
+  \item Designed an authorization solution to enable multi-tenancy for customers requiring large scale and responsive changes when groups in an identity provider won't suffice
+  \item Engaged 1 on 1 with customers as needed to provide insight into our service and develop solutions that fit their requirements
+  \item Monitoring internal tickets as well as GitHub to touch base with our customers and resolve the problems they faced
+  \item Performing in depth designs as well as design reviews to ensure the quality of the code we shipped
+  \end{tightemize}
+
   \runsubsection{Amway}
   \descript{| Software Developer }
-  \location{Jun 2018 - Present | Ada, MI}
+  \location{Jun 2018 - May 2021 | Ada, MI}
   \vspace{\topsep}
   \begin{tightemize}
   \item Responsible for developing and maintaining highly available integration services for business processes
@@ -183,30 +195,6 @@
   \end{tightemize}
   \sectionsep
 
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  %     RESEARCH
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-  \section{Research}
-  \runsubsection{Liao Research Group}
-  \descript{| Professorial Assistant}
-  \location{Aug 2014 – May 2016 | East Lansing, MI}
-  \vspace{\topsep}
-  \begin{tightemize}
-  \item Experimental design of wastewater reclamation and waste gas purification
-  \item Performed experiments and ran statistical analysis on the results
-  \end{tightemize}
-  \sectionsep
-
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  %     PUBLICATIONS
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-  \section{Publications} 
-  \renewcommand\refname{\vskip -0.5cm} % Couldn't get this working from the .cls file
-  \bibliographystyle{abbrv}
-  \bibliography{resume}
-  \nocite{*}
 
   \end{minipage} 
   \end{document}  \documentclass[]{article}
