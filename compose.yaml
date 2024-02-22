@@ -1,0 +1,11 @@
+services:
+  resume-compiler:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    network_mode: "host"
+    volumes:
+      - type: bind
+        source: ./
+        target: /home/latex
+
